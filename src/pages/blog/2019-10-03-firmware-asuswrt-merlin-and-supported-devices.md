@@ -16,7 +16,7 @@ github: https://github.com/RMerl/asuswrt-merlin
 
 - RT-AC66U_B1 (use the RT-AC68U firmware)
 
-- RT-AC68U, RT-AC68P, RT-AC68UF
+- [RT-AC68U](https://www.amazon.com/gp/product/B00FB45SI4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FB45SI4&linkCode=as2&tag=digoog-20&linkId=0b33345bcadfe9e7ddcb2512360e4baf), RT-AC68P, RT-AC68UF
 
 - RT-AC2900 (use the RT-AC86U firmware)
 

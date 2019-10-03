@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Firmware Asuswrt-Merlin supported devices
 date: 2019-10-03T03:04:10.000Z
 description: Asuswrt-Merlin a third party alternative firmware for Asus routers
-featuredpost: false
+featuredpost: true
 featuredimage: /img/merlin.png
 tags:
   - merlin
